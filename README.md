@@ -12,3 +12,4 @@ Stanford CS142.
 
 |Date   |PPT        |Project    |Time   |
 |:-:    |:-:        |:-:        |:-:    |
+|0810   |01-03      |           |1h     |
