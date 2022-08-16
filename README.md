@@ -18,3 +18,4 @@ From my perspective, CS142 is not a simple introductory programming class, but r
 |:-:    |:-:        |:-:        |:-:    |
 |0810   |01-03      |           |1h     |
 |0811   |04-06      |01-02      |5h     |
+|0815   |07-09      |           |2h     |
